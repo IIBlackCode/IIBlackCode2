@@ -12,6 +12,7 @@ https://IIBlackCode.github.io/HtmlTemplate/state.html
 Python 2차 Web Project
 
   - Main Intro Page Theme
+  - 
 https://IIBlackCode.github.io/HtmlTemplate/elegence-main/index.html
 
 
