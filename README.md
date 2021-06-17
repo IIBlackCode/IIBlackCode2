@@ -15,6 +15,7 @@ Python 2차 Web Project
 
 https://IIBlackCode.github.io/HtmlTemplate/elegence-main/index.html
 
+https://IIBlackCode.github.io/HtmlTemplate/quickloud-master/index.html - 확정
 
   - Management Program Theme
 
